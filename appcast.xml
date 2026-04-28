@@ -4,5 +4,19 @@
     <title>EWP Updates</title>
     <link>https://bskapps.com/ewp</link>
     <language>en</language>
+    <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Tue, 28 Apr 2026 06:09:28 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Bug fixes and performance improvements.</p>]]></description>
+      <enclosure url="https://github.com/BSKapps/ewp-updates/raw/main/EWP-1.0.1.zip"
+                 sparkle:version="2"
+                 sparkle:shortVersionString="1.0.1"
+                 length="6489789"
+                 type="application/octet-stream"
+                 sparkle:edSignature="KPmrfyW8CzDoGbJEUqhry8LcJt68NNYKsGswAQdBfFpOVJ73iDBlmSkfjnufs1V8m6g2f27ANLTUo2kKOOHhAw=="/>
+    </item>
   </channel>
 </rss>
