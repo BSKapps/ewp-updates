@@ -6,7 +6,7 @@
     <language>en</language>
     <item>
       <title>Version 1.0.1</title>
-      <pubDate>Tue, 28 Apr 2026 06:19:16 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 07:05:55 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -14,9 +14,9 @@
       <enclosure url="https://github.com/BSKapps/ewp-updates/raw/main/EWP-1.0.1.zip"
                  sparkle:version="2"
                  sparkle:shortVersionString="1.0.1"
-                 length="6591199"
+                 length="6489237"
                  type="application/octet-stream"
-                 sparkle:edSignature="O6WVNfiVmWUOPBwA9F8L7oAH/LyRzvaWiI4wjOYPx8ynk7oglrVcehFTCnxh2ghuzFfOlyrWHPG54mIwaSw9Cw=="/>
+                 sparkle:edSignature="ocfu5CcLKTe4T1d5zpzYJrb1sN43oC0MyxDagOu3tdxdUDDeAl7ZBByq3nnF5NnydkpRkbNJyPEPhVo+QtBcBg=="/>
     </item>
   </channel>
 </rss>
