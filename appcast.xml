@@ -5,6 +5,20 @@
     <link>https://bskapps.com/ewp</link>
     <language>en</language>
     <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Sat, 31 May 2026 07:20:00 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Bug fixes and performance improvements.</p>]]></description>
+      <enclosure url="https://github.com/BSKapps/ewp-updates/raw/main/EWP-1.0.2.zip"
+                 sparkle:version="3"
+                 sparkle:shortVersionString="1.0.2"
+                 length="1501326"
+                 type="application/octet-stream"
+                 sparkle:edSignature="nE2SLugM8YEcGmz2h6EWtmoxnc+2fVhk9oS5XIiyoOoeVzQHHAmpVLTuHabboPRugiOmYh/DjgNbg1xxOjvWDw=="/>
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Tue, 28 Apr 2026 07:20:21 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
