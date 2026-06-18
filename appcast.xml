@@ -5,6 +5,21 @@
     <link>https://bskapps.com/ewp</link>
     <language>en</language>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Fri, 19 Jun 2026 00:31:52 +1000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">Software updates now stay in front for the whole update, including the final Install and Relaunch window.</li>
+<li style="margin-bottom:6px">Fixed Install and Relaunch getting stuck when the Settings window was open.</li>
+<li style="margin-bottom:6px">Clear now minimises only the windows in the current layout, not every window on the screen.</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/ewp-updates/releases/download/v1.1.1/EWP.1.1.1.zip" length="1621097" type="application/octet-stream" sparkle:edSignature="m1yWl+nFrtECdStPhinW6lQDOrWP7+INCALKmPM62hbx7PogPe+x7ZmSMFd681Mahs22LpcpXBSjGa4J/W3CAg=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Thu, 18 Jun 2026 22:06:54 +1000</pubDate>
             <sparkle:version>6</sparkle:version>
