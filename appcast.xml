@@ -4,6 +4,26 @@
     <title>EWP Updates</title>
     <link>https://bskapps.com/ewp</link>
     <language>en</language>
+        <item>
+            <title>1.1</title>
+            <pubDate>Thu, 18 Jun 2026 21:40:03 +1000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+EWP 1.1
+
+- Open saved apps on launch: optionally auto-apply a chosen preset when EWP starts, launching its apps and snapping them into their quadrants
+- Switching to a preset now launches any of its apps that are not running, then arranges them
+- Optional per-preset "Quit other apps EWP opened" for a clean switch
+- Presets locked to a screen fall back to the current screen when that screen is not connected
+- The window panel now follows monitors being plugged in or unplugged while open
+- Applying a preset no longer freezes the window while a slow app launches
+- New Email Support button that copies a diagnostics report and opens an email to support
+- Deleting a preset that was the startup preset now clears the startup selection
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/ewp-updates/releases/download/v1.1/EWP.1.1.zip" length="1622678" type="application/octet-stream" sparkle:edSignature="9ekBjCddwpDbBM21Ss0L4q/iFw/fP7tZnWIyw1m4B38LdjyT7Z87bbU6ktXFwSYFSmvuIhkJht/eHC3Sx4qQDQ=="/>
+        </item>
     <item>
       <title>Version 1.0.3</title>
       <pubDate>Sat, 31 May 2026 08:00:00 +0000</pubDate>
