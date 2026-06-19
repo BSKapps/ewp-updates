@@ -5,6 +5,19 @@
     <link>https://bskapps.com/ewp</link>
     <language>en</language>
         <item>
+            <title>1.1.3</title>
+            <pubDate>Fri, 19 Jun 2026 14:40:32 +1000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">Show/Hide EWP now brings the window to the front when it is behind other windows, instead of needing a second click</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/ewp-updates/releases/download/v1.1.3/EWP.1.1.3.zip" length="1621115" type="application/octet-stream" sparkle:edSignature="qK1keCHDxRmybZ28PPWNXg9efoEAwtHFa0Ja/GZpsjUad72VHgdEVbSm0qLRr8bxuJ5mwQy4WHDfpUPt7ecoDg=="/>
+        </item>
+        <item>
             <title>1.1.2</title>
             <pubDate>Fri, 19 Jun 2026 11:56:01 +1000</pubDate>
             <sparkle:version>8</sparkle:version>
