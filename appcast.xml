@@ -5,6 +5,22 @@
     <link>https://bskapps.com/ewp</link>
     <language>en</language>
         <item>
+            <title>1.1.4</title>
+            <pubDate>Mon, 22 Jun 2026 22:15:16 +1000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">EWP no longer opens its window or steals focus when auto-launching at login</li>
+<li style="margin-bottom:6px">Opening Settings no longer pulls EWP in front of your active app</li>
+<li style="margin-bottom:6px">Menu-bar-only apps (Spotify, system utilities etc.) no longer appear briefly in the card tray at startup</li>
+<li style="margin-bottom:6px">Accessibility access is now checked silently on launch; the in-app banner guides you if it is needed</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/ewp-updates/releases/download/v1.1.4/EWP.1.1.4.zip" length="1626141" type="application/octet-stream" sparkle:edSignature="uUaChr0+VqDDuocthzKgDcye0Yg2QdL3/UFVPnhr6No/O2QyWAyumNfwC+Yy9O1D0Mup6snTArC97AQfcgnEDA=="/>
+        </item>
+        <item>
             <title>1.1.3</title>
             <pubDate>Fri, 19 Jun 2026 14:40:32 +1000</pubDate>
             <sparkle:version>9</sparkle:version>
