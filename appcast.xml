@@ -5,6 +5,21 @@
     <link>https://bskapps.com/ewp</link>
     <language>en</language>
         <item>
+            <title>1.1.6</title>
+            <pubDate>Thu, 13 Aug 2026 22:17:52 +1000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">The menu bar now reads Show EWP or Hide EWP instead of Show/Hide EWP</li>
+<li style="margin-bottom:6px">Show EWP works when the window is buried behind another app or minimised to the Dock</li>
+<li style="margin-bottom:6px">Settings comes back to the front when it is already open behind something else</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/ewp-updates/releases/download/v1.1.6/EWP.1.1.6.zip" length="1639481" type="application/octet-stream" sparkle:edSignature="n9K0FlGvgYwKtirv6d4aZd0fj0RAv3OZTPBMyCM9FC3qiJnoNCVIGhzOSM1orE8/Hb3nnRvG926fnuqB3qWhCA=="/>
+        </item>
+        <item>
             <title>1.1.5</title>
             <pubDate>Thu, 09 Jul 2026 00:12:14 +1000</pubDate>
             <sparkle:version>11</sparkle:version>
