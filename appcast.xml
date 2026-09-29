@@ -5,6 +5,28 @@
     <link>https://bskapps.com/ewp</link>
     <language>en</language>
         <item>
+            <title>1.1.7</title>
+            <pubDate>Tue, 29 Sep 2026 12:50:24 +1000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<p style="font-weight:600;margin:12px 0 6px">What's New</p>
+<ul>
+<li style="margin-bottom:6px">None this version</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Fixes</p>
+<ul>
+<li style="margin-bottom:6px">Safer app updates</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Known Issues</p>
+<ul>
+<li style="margin-bottom:6px">None known</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/ewp-updates/releases/download/v1.1.7/EWP.1.1.7.zip" length="1645365" type="application/octet-stream" sparkle:edSignature="4iKtmCRy8E1YAM5vv/EiDseVqeDQ7gUrf05mSbCvBw6zk5mmR+aATv5fcyhRFJPqJnX4e+NwMAQwsDw8bGNTDA=="/>
+        </item>
+        <item>
             <title>1.1.6</title>
             <pubDate>Thu, 13 Aug 2026 22:17:52 +1000</pubDate>
             <sparkle:version>12</sparkle:version>
